@@ -6,6 +6,7 @@ public class array {
 	public static void main(String[] args) {
 		int ab=1;
 		int c=1;
+		int a=ab+c;
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the size");
 		int size=sc.nextInt();
